@@ -10,3 +10,6 @@
   - USB MACRO Data
   - Fitting
   - Lampu
+
+# Menggunakan ESP8266
+Saya menggunakan referensi dari channel youtube : https://youtu.be/m_mX_5iDj8c?si=iplwPVPr99g2HAG9
